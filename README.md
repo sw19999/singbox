@@ -14,5 +14,5 @@ apt update && apt -y install curl wget tar socat net-tools jq git openssl uuid-r
 yum update && yum -y install curl wget tar socat net-tools jq git openssl util-linux gcc-c++ zlib-devel openssl-devel libevent-devel bind-utils cronie
 ```
 ```bash
-bash <(curl https://raw.githubusercontent.com/sw19999/singbox/main/singbox.sh.sh)
+bash <(curl https://raw.githubusercontent.com/sw19999/singbox/main/singbox.sh)
 ```
