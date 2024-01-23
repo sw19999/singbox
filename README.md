@@ -4,7 +4,7 @@
 ### Github.com/TinrLin/singbox 脚本备份
 # **Script installation**
 ```bash
-apt update && apt-get -y install wget jq tar git libc6-dev build-essential zlib1g-dev libssl-dev libevent-dev mingw-w64 openssl
+apt update && apt-get -y install wget net-tools jq tar git libc6-dev build-essential zlib1g-dev libssl-dev libevent-dev mingw-w64 openssl
 ```
 ```bash
 bash <(curl https://raw.githubusercontent.com/sw19999/singbox/main/singbox.sh.sh)
